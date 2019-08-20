@@ -1,16 +1,3 @@
-docs/
-    index.md
-    HowtoContribute.md
-    AnalyzeYourData_MultivariateComparisons.md
-    AnalyzeYourData_CoAnalysis_at_GNPS.md
-    AnalyzePublicData_MultivariateComparisons.md
-    AnalyzePublicData_ChemicalExplorerSampleInformationAssociation.md
-    PublicData_Reanalysis_at_GNPS.md
-    contact.md
-    FAQ.md
-    images/
-        Sample_Template_MakeACopy.gif
-
 site_name: ReDU Documentation
 pages:
     - ReDU Introduction: index.md
