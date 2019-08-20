@@ -11,8 +11,8 @@ pages:
         - Re-analysis at GNPS: PublicData_Reanalysis_at_GNPS.md
     - Contact: contact.md
     - FAQ: FAQ.md
-#theme:
- #   name: material
+theme:
+    name: material
     #name: readthedocs
 
     #palette:
@@ -26,4 +26,4 @@ pages:
 #theme: readthedocs
 #theme:
 #  name: 'rtd-dropdown'
-#google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
+google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
