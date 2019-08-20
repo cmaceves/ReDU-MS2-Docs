@@ -26,4 +26,10 @@ theme:
 #theme: readthedocs
 #theme:
 #  name: 'rtd-dropdown'
+
+docs/
+    images/
+        Sample_Template_MakeACopy.gif
+
+
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
