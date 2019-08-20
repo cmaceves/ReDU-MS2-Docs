@@ -11,6 +11,8 @@ pages:
         - Re-analysis at GNPS: PublicData_Reanalysis_at_GNPS.md
     - Contact: contact.md
     - FAQ: FAQ.md
+    - Sample_Template_MakeACopy.gif
+    
 theme:
     name: material
     #name: readthedocs
