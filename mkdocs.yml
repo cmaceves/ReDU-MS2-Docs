@@ -29,8 +29,8 @@ theme:
 #  name: 'rtd-dropdown'
 
 markdown_extensions:
-    docs/
-        images/ 
-            Sample_Template_MakeACopy.gif
+    - mdx_gh_links:
+        - user: cmaceves
+        - repo: ReDU-MS2-Docs
 
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
