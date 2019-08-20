@@ -29,33 +29,6 @@ theme:
 #theme:
 #  name: 'rtd-dropdown'
 
-mkdocs.yml
-docs/
-    AnalyzeYourData_MutlivariateComparisons.md
-    AnalyzeYourData_CoAnalysis_at_GNPS.md
-    AnalyzePublicData_MultivariateComparisons.md
-    AnalyzePublicData_ChemicalExplorerSampleInformationAssociation.md
-    PublicData_Reanalysis_at_GNPS.md
-    contact.md
-    index.md
-    FAQ.md
-    HowtoContribute.md
-    images/
-        File_Selector.gif
-        PCA_Emperor_PublicData.gif
-        Projection.gif
-        SampleInfoAssociation.gif
-        Sample_Template_Fill.gif
-        Sample_Template_deleterows.gif
-        Validate.gif
-        axis_change.gif
-        color_change.gif
-        filter_samples.gif
-        find_task_id.jpg
-        redu_homepage.jpg
-        redu_home.jpg
-        task_id_entry.jpg
-        Sample_Template_MakeACopy.gif
 
 
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
