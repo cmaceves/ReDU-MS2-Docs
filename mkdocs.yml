@@ -1,3 +1,16 @@
+docs/
+    index.md
+    HowtoContribute.md
+    AnalyzeYourData_MultivariateComparisons.md
+    AnalyzeYourData_CoAnalysis_at_GNPS.md
+    AnalyzePublicData_MultivariateComparisons.md
+    AnalyzePublicData_ChemicalExplorerSampleInformationAssociation.md
+    PublicData_Reanalysis_at_GNPS.md
+    contact.md
+    FAQ.md
+    images/
+        Sample_Template_MakeACopy.gif
+
 site_name: ReDU Documentation
 pages:
     - ReDU Introduction: index.md
@@ -27,12 +40,5 @@ theme:
 #theme: readthedocs
 #theme:
 #  name: 'rtd-dropdown'
-
-markdown_extensions:
-    - toc: 
-        - permalink: "#"
-    - mdx_gh_links:
-        - user: cmaceves
-        - repo: ReDU-MS2-Docs
 
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
