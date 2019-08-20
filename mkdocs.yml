@@ -29,7 +29,7 @@ theme:
 #  name: 'rtd-dropdown'
 
 markdown_extensions:
-    -toc: 
+    - toc: 
         - permalink: "#"
     - mdx_gh_links:
         - user: cmaceves
