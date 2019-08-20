@@ -29,10 +29,9 @@ theme:
 
 markdown_extensions:
     - toc :
-        permalink: True
-            docs/
-                images/
-                    Sample_Template_MakeACopy.gif
+        docs/
+            images/
+                Sample_Template_MakeACopy.gif
 
 
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
