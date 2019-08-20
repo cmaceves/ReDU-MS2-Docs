@@ -29,6 +29,8 @@ theme:
 #  name: 'rtd-dropdown'
 
 markdown_extensions:
+    -toc: 
+        - permalink: "#"
     - mdx_gh_links:
         - user: cmaceves
         - repo: ReDU-MS2-Docs
