@@ -29,6 +29,7 @@
   - **One template is required per MassIVE ID.**
 - Save a copy of the sample information template by going to **"File - Make a copy"** into a personal google drive
 
+![useful image]({{https://cmaceves.github.io/ReDU-MS2-Docs}}/docs/image.png)
 <img src="https://cmaceves.github.io/ReDU-MS2-Docs/docs/images/Sample_Template_MakeaCopy.gif" height="400" width="500">
   
 #### 2B - Fill the Sample Information Template
